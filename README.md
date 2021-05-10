@@ -24,4 +24,4 @@ simple chat application useing django,android,react
 
 ![alt text](https://alisamadzadeh.ir/chatapi/Screenshot_2021-05-04%20alisamadzadeh%20Change%20custom%20user%20Django%20site%20admin.png)
 
-
+resource : AdefemiGreat
