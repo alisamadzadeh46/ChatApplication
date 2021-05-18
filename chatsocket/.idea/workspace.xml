@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab98b79e-9a01-4af9-9ec9-481b6722868f" name="Default Changelist" comment="edit">
-      <change beforePath="$PROJECT_DIR$/../backend/chat/account/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/chat/account/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/chat/chat/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/chat/chat/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
       <workItem from="1621342685416" duration="1286000" />
       <workItem from="1621346232992" duration="624000" />
       <workItem from="1621346874664" duration="21000" />
-      <workItem from="1621346940881" duration="2337000" />
+      <workItem from="1621346940881" duration="2706000" />
     </task>
     <task id="LOCAL-00001" summary="Socket service">
       <created>1621348178695</created>
