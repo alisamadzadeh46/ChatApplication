@@ -15,6 +15,13 @@ simple chat application useing django,android,react
 
 6. Run the django development server using `python manage.py runserver`
 
+resource 
+
+AdefemiGreat
+
+www.django-rest-framework.org
+
+https://reactjs.org
 
 ![alt text](https://alisamadzadeh.ir/chatapi/Screenshot_2021-05-04%20Chat%20API.png)
 
@@ -23,3 +30,4 @@ simple chat application useing django,android,react
 ![alt text](https://alisamadzadeh.ir/chatapi/Screenshot_2021-05-04%20Add%20jwt%20Django%20site%20admin.png)
 
 ![alt text](https://alisamadzadeh.ir/chatapi/Screenshot_2021-05-04%20alisamadzadeh%20Change%20custom%20user%20Django%20site%20admin.png)
+
