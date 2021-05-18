@@ -1,6 +1,7 @@
 from rest_framework import serializers
-from .models import UserProfile, CustomUser, Favorite
+from .models import UserProfile, CustomUser
 from message_control.serializers import GenericFileUploadSerializer
+from message_control.models import Message
 
 
 class LoginSerializer(serializers.Serializer):
@@ -42,7 +43,6 @@ class UserProfileSerializer(serializers.ModelSerializer):
         except Exception as e:
             user_id = None
 
-        from message_control.models import Message
         message = Message.objects.filter(sender_id=obj.user.id, receiver_id=user_id, is_read=False).distinct()
 
         return message.count()
