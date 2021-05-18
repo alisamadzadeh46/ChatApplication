@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab98b79e-9a01-4af9-9ec9-481b6722868f" name="Default Changelist" comment="update gitignore">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="ab98b79e-9a01-4af9-9ec9-481b6722868f" name="Default Changelist" comment="edit">
+      <change beforePath="$PROJECT_DIR$/../backend/chat/account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/chat/account/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/chat/chat/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/chat/chat/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,7 @@
       <workItem from="1621342685416" duration="1286000" />
       <workItem from="1621346232992" duration="624000" />
       <workItem from="1621346874664" duration="21000" />
-      <workItem from="1621346940881" duration="1407000" />
+      <workItem from="1621346940881" duration="2026000" />
     </task>
     <task id="LOCAL-00001" summary="Socket service">
       <created>1621348178695</created>
@@ -78,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621348232483</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="edit">
+      <created>1621348485447</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621348485447</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Socket service" />
     <MESSAGE value="update gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="update gitignore" />
+    <MESSAGE value="edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit" />
   </component>
 </project>
