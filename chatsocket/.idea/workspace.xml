@@ -3,15 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ab98b79e-9a01-4af9-9ec9-481b6722868f" name="Default Changelist" comment="edit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
