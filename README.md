@@ -15,13 +15,13 @@ simple chat application useing django,android,react
 
 6. Run the django development server using `python manage.py runserver`
 
-resource 
+# References
 
-AdefemiGreat
+1. AdefemiGreat
 
-www.django-rest-framework.org
+1. www.django-rest-framework.org
 
-https://reactjs.org
+1. https://reactjs.org
 
 ![alt text](https://alisamadzadeh.ir/chatapi/Screenshot_2021-05-04%20Chat%20API.png)
 
